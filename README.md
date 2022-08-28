@@ -13,3 +13,9 @@ Expected:
 Actual:
 
 ![image](https://user-images.githubusercontent.com/18749772/187064427-f7eea9c8-d62d-4c88-a56b-f85ec36c1a88.png)
+
+---
+
+PlatForm:
+
+- HONOR CHL-AL00 (Android 10.0 - API 29) <- Sorry for using a not popular real device. May be retested elsewhere later.
