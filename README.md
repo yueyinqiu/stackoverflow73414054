@@ -6,7 +6,7 @@
 
 ---
 
-Actual:
+Result:
 
 ![image](https://user-images.githubusercontent.com/18749772/187069068-55e0a147-d96b-42ac-8bac-ec91b3a9bd24.png)
 
