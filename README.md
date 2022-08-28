@@ -1,8 +1,8 @@
 # stackoverflow73414054
 
-1. create the project (`MauiApp1`)
-2. draw an icon (in `icon` folder)
-3. use the icon in the project
+1. create the project (`MauiApp1`) - [`commit 763b95e9712b9b982f7f823767b8cacbe1fb3506`](https://github.com/yueyinqiu/stackoverflow73414054/commit/763b95e9712b9b982f7f823767b8cacbe1fb3506)
+2. draw an icon (in `icon` folder) - [`commit 656b021f7830fbfb0bd23a604b9cfdc7a496f3aa`](https://github.com/yueyinqiu/stackoverflow73414054/commit/656b021f7830fbfb0bd23a604b9cfdc7a496f3aa)
+3. use the icon in the project - [`commit 0afe2e8c08e61d33bec3b2eeef91c989b5ff7688`](https://github.com/yueyinqiu/stackoverflow73414054/commit/0afe2e8c08e61d33bec3b2eeef91c989b5ff7688)
 
 ---
 
