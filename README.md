@@ -14,8 +14,8 @@ Expected (built from `AndroidApp1`, a xamarin project, with a vector drawable as
 
 ![image](https://user-images.githubusercontent.com/18749772/187069054-409e6b92-742a-44ba-8bf3-1f4a947732b7.png)
 
----
+(platForm above: HONOR CHL-AL00 (Android 10.0 - API 29))
 
-PlatForm:
+Also on Windows Subsystem for Android:
 
-- HONOR CHL-AL00 (Android 10.0 - API 29) <- Sorry for using a not popular real device. May be retested elsewhere later.
+![image](https://user-images.githubusercontent.com/18749772/187077766-65e806c3-f762-438a-be0c-0768584e0f72.png)
