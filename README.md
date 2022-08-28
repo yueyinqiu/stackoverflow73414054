@@ -7,12 +7,15 @@
 ---
 
 Result:
+
 ![image](https://user-images.githubusercontent.com/18749772/187069068-55e0a147-d96b-42ac-8bac-ec91b3a9bd24.png)
 
 Expected (built from `AndroidApp1`, a xamarin project, with a vector drawable as the icon resource):
+
 ![image](https://user-images.githubusercontent.com/18749772/187069054-409e6b92-742a-44ba-8bf3-1f4a947732b7.png)
 
 (platform above: HONOR CHL-AL00 (Android 10.0 - API 29))
 
-Also on Windows Subsystem for Android:
+And also on Windows Subsystem for Android:
+
 ![image](https://user-images.githubusercontent.com/18749772/187077766-65e806c3-f762-438a-be0c-0768584e0f72.png)
