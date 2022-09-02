@@ -1,6 +1,6 @@
 # stackoverflow73414054
 
-Solution Here: [https://docs.microsoft.com/en-us/answers/questions/990590/maui-appicon-strange-scaling-on-android.html](https://docs.microsoft.com/en-us/answers/questions/990590/maui-appicon-strange-scaling-on-android.html)
+Solution Here: [https://docs.microsoft.com/en-us/answers/questions/990590/maui-appicon-strange-scaling-on-android.html](https://docs.microsoft.com/en-us/answers/questions/990590/maui-appicon-strange-scaling-on-android.html) - [`commit 8129fbe2fa9e4500162110c881ed14bffeeac7e9`](https://github.com/yueyinqiu/stackoverflow73414054/commit/8129fbe2fa9e4500162110c881ed14bffeeac7e9)
 
 ---
 
